@@ -1,13 +1,18 @@
-# 💳 NayaPay Clone — JavaScript Wallet App
+# 💳 NayaPay — JavaScript Wallet App
 
 A front-end simulation of the NayaPay digital wallet, developed using HTML, CSS, and vanilla JavaScript. This project is built for learning and practicing **JavaScript fundamentals**, DOM manipulation, and building real-world UI logic from scratch.
 
 ---
 
+## 🚀 Live Demo
+
+[https://nayapay-web-app.vercel.app/](#)
+
+---
+
 ## 📸 Preview
 
-![NayaPay UI Preview](./screenshot.png)  
-_(Add your screenshot here or replace with live link)_
+![NayaPay UI Preview](./imge.png)
 
 ---
 
