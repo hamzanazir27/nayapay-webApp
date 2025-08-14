@@ -8,6 +8,14 @@ A front-end simulation of the NayaPay digital wallet, developed using HTML, CSS,
 
 [https://nayapay-web-app.vercel.app/](#)
 
+akmal shahzad account
+username : as
+password : 1111
+
+hamza nazir account
+username : hn
+password :2222
+
 ---
 
 ## 📸 Preview
@@ -47,3 +55,4 @@ A front-end simulation of the NayaPay digital wallet, developed using HTML, CSS,
    git clone https://github.com/your-username/nayapay-clone.git
    cd nayapay-clone
    ```
+
